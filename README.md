@@ -47,7 +47,7 @@ Required libraries:
 5. Modelling
 
 ## File Discription
-There is only jupyter notebook used for the complete analysis.
+There is notebook name called Airbnb_Price_Prediction.ipynb which is used for the complete analysis.
 
 ## Results
 The results from code is explained in this blog  [here](https://venkateshprasath-manoharan.medium.com/lets-see-how-machine-learning-can-be-used-to-predict-accommodation-reservation-prices-c7865b40fbc7)
