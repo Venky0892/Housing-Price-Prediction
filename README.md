@@ -24,8 +24,9 @@
   </ol>
 </details>
 
-# Housing-Price-Prediction
-Predicting prices for accommodation using Airbnb data.
+## About The Project
+
+The main goal of this project is to predict the accommodation prices from Airbnb data. 
 
 Project Motivation:
 In this project, I was interested in predicting accommodation prices with some basic analysis and modelling with help of Airbnb Seatle dataset from Kaggel.
