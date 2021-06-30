@@ -8,7 +8,8 @@ Step by step approach
 1. Lets first explore the dataset first. Shape and type of columns and etc.
 2. Data preprocessing -  Remove or imputing missing values & How we deal with them?
 3. Explore Insigts to get key aspects of the data and its key features.
-4. Modelling
+4. Feature Engineering - There are lot techniques to determine the right feature to predict the prices.
+5. Modelling
 
 Required libraries:
 1. Pandas
