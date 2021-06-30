@@ -12,6 +12,7 @@
     <li><a href="#filedescription">File Discription</a></li>
     <li><a href="#results">Results</a></li>
     <li><a href="#resources">Resources</a></li>
+    <li><a href="#acknoledgements">Acknowledgements</a></li>
     
     
   </ol>
@@ -54,5 +55,8 @@ The results from code is explained in this blog  [here](https://venkateshprasath
 ## Resources:
 1. https://www.kaggle.com/airbnb/seattle
 2. Airbnb website
+
+## Acknowledgements
+Credit for kaggle for the datasets and the description of the datasets link available [here](https://www.kaggle.com/airbnb/seattle/data)
 
 
