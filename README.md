@@ -1,8 +1,13 @@
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 # Housing-Price-Prediction
 Predicting prices for accommodation using Airbnb data.
 
-Problem statement:
-What are the basic features which determine the prices for accommodation and with those features can you predict the price of an reservation?
+Project Motivation:
+In this project, I was interested in predicting accommodation prices with some basic analysis and modelling with help of Airbnb Seatle dataset from Kaggel.
+
 
 Step by step approach
 1. Lets first explore the dataset first - Shape, type of columns and etc.
