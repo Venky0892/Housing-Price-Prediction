@@ -49,7 +49,7 @@ Required libraries:
 There is only jupyter notebook used for the complete analysis.
 
 ## Results
-The results from code is explained in this blog * [here](https://venkateshprasath-manoharan.medium.com/lets-see-how-machine-learning-can-be-used-to-predict-accommodation-reservation-prices-c7865b40fbc7)
+The results from code is explained in this blog  [here](https://venkateshprasath-manoharan.medium.com/lets-see-how-machine-learning-can-be-used-to-predict-accommodation-reservation-prices-c7865b40fbc7)
 
 ## Resources:
 1. https://www.kaggle.com/airbnb/seattle
