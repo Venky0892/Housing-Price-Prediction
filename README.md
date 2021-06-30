@@ -1,2 +1,18 @@
 # Housing-Price-Prediction
 Predicting prices for accommodation using Airbnb data.
+
+Problem statement:
+What are the basic features which determine the prices for accommodation and with those features can you predict the price of an reservation?
+
+Step by step approach
+1. Lets first explore the dataset first. Shape and type of columns and etc.
+2. Data preprocessing -  Remove or imputing missing values & How we deal with them?
+3. Explore Insigts to get key aspects of the data and its key features.
+4. Modelling
+
+Required libraries:
+1. Pandas
+2. Numpy
+3. Sckit Learn 
+4. Linear Regression 
+5. XGBoost
